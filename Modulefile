@@ -1,0 +1,8 @@
+name 'zivtech-pound'
+version '0.0.1'
+source 'https://github.com/proviso/puppet-pound.git'
+author 'Zivtech'
+license 'Apache 2.0'
+summary 'Installs Pound'
+description 'Installs Pound'
+project_page 'https://github.com/proviso/puppet-pound'
